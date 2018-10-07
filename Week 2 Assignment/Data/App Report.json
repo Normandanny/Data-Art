@@ -1,0 +1,502 @@
+[
+  {
+    "application" : "Google Chrome",
+    "duration" : "47h 14m 48s"
+  },
+  {
+    "application" : "Safari",
+    "duration" : "37h 53m 24s"
+  },
+  {
+    "application" : "SlayTheSpire",
+    "duration" : "9h 55m 5s"
+  },
+  {
+    "application" : "WeChat",
+    "duration" : "6h 59m 9s"
+  },
+  {
+    "application" : "Spark",
+    "duration" : "4h 47m 42s"
+  },
+  {
+    "application" : "Finder",
+    "duration" : "4h 36m 41s"
+  },
+  {
+    "application" : "Football Manager 2018 v 18 . 3 . 4 f 1093860",
+    "duration" : "3h 1m 34s"
+  },
+  {
+    "application" : "Xcode",
+    "duration" : "2h 51s"
+  },
+  {
+    "application" : "1Password 7",
+    "duration" : "1h 49m 35s"
+  },
+  {
+    "application" : "QQ",
+    "duration" : "1h 49m 34s"
+  },
+  {
+    "application" : "Microsoft OneNote",
+    "duration" : "1h 35m 24s"
+  },
+  {
+    "application" : "Blu-ray Player Pro",
+    "duration" : "1h 31m 55s"
+  },
+  {
+    "application" : "Code",
+    "duration" : "1h 25m 31s"
+  },
+  {
+    "application" : "Typora",
+    "duration" : "1h 17m 31s"
+  },
+  {
+    "application" : "Acrobat Pro DC",
+    "duration" : "1h 15m 28s"
+  },
+  {
+    "application" : "Hearthstone",
+    "duration" : "1h 14m 15s"
+  },
+  {
+    "application" : "Maipo",
+    "duration" : "1h 11m 56s"
+  },
+  {
+    "application" : "IINA",
+    "duration" : "1h 6m 15s"
+  },
+  {
+    "application" : "Firefox",
+    "duration" : "1h 3m 29s"
+  },
+  {
+    "application" : "腾讯视频",
+    "duration" : "1h 1m 23s"
+  },
+  {
+    "application" : "iBooks",
+    "duration" : "52m 42s"
+  },
+  {
+    "application" : "iStat Menus Status",
+    "duration" : "42m 43s"
+  },
+  {
+    "application" : "Transmit",
+    "duration" : "42m 1s"
+  },
+  {
+    "application" : "MATLAB",
+    "duration" : "41m 35s"
+  },
+  {
+    "application" : "Alfred Preferences",
+    "duration" : "38m 27s"
+  },
+  {
+    "application" : "System Preferences",
+    "duration" : "37m 17s"
+  },
+  {
+    "application" : "Notes",
+    "duration" : "34m 47s"
+  },
+  {
+    "application" : "BombSquad",
+    "duration" : "34m 35s"
+  },
+  {
+    "application" : "Timing",
+    "duration" : "33m 38s"
+  },
+  {
+    "application" : "Activity Monitor",
+    "duration" : "32m 8s"
+  },
+  {
+    "application" : "网易MuMu",
+    "duration" : "31m 21s"
+  },
+  {
+    "application" : "Microsoft Word",
+    "duration" : "30m 17s"
+  },
+  {
+    "application" : "NeteaseMusic",
+    "duration" : "30m 11s"
+  },
+  {
+    "application" : "Fantastical",
+    "duration" : "28m 58s"
+  },
+  {
+    "application" : "Notion",
+    "duration" : "27m 48s"
+  },
+  {
+    "application" : "Steam",
+    "duration" : "27m 33s"
+  },
+  {
+    "application" : "LastPass",
+    "duration" : "27m 21s"
+  },
+  {
+    "application" : "Trello",
+    "duration" : "26m 59s"
+  },
+  {
+    "application" : "Code",
+    "duration" : "26m 38s"
+  },
+  {
+    "application" : "Script Editor",
+    "duration" : "26m 33s"
+  },
+  {
+    "application" : "Microsoft PowerPoint",
+    "duration" : "23m 13s"
+  },
+  {
+    "application" : "App Store",
+    "duration" : "22m 6s"
+  },
+  {
+    "application" : "AriaNg",
+    "duration" : "21m 35s"
+  },
+  {
+    "application" : "Todoist",
+    "duration" : "21m 3s"
+  },
+  {
+    "application" : "Reminders",
+    "duration" : "17m 45s"
+  },
+  {
+    "application" : "Numi",
+    "duration" : "17m 31s"
+  },
+  {
+    "application" : "Cisco AnyConnect Secure Mobility Client",
+    "duration" : "16m 51s"
+  },
+  {
+    "application" : "CleanMyMac X",
+    "duration" : "16m 31s"
+  },
+  {
+    "application" : "Setapp",
+    "duration" : "16m 12s"
+  },
+  {
+    "application" : "iMazing",
+    "duration" : "15m 40s"
+  },
+  {
+    "application" : "EuDic",
+    "duration" : "13m 59s"
+  },
+  {
+    "application" : "namebench",
+    "duration" : "12m 16s"
+  },
+  {
+    "application" : "搜狗输入法 偏好设置",
+    "duration" : "12m 4s"
+  },
+  {
+    "application" : "Mosaic",
+    "duration" : "11m 47s"
+  },
+  {
+    "application" : "Folx",
+    "duration" : "11m 21s"
+  },
+  {
+    "application" : "幕布",
+    "duration" : "11m 20s"
+  },
+  {
+    "application" : "Slack",
+    "duration" : "10m 23s"
+  },
+  {
+    "application" : "Downie",
+    "duration" : "10m 3s"
+  },
+  {
+    "application" : "\/private\/var\/folders\/94\/fllxp7f90zb16d5lsw_r_8xc0000gn\/T\/installer_7627\/sys\/java\/jre\/maci64\/jre\/bin\/java",
+    "duration" : "10m 1s"
+  },
+  {
+    "application" : "iTunes",
+    "duration" : "9m 24s"
+  },
+  {
+    "application" : "VLC",
+    "duration" : "8m 45s"
+  },
+  {
+    "application" : "System Information",
+    "duration" : "8m 36s"
+  },
+  {
+    "application" : "MoneyWiz 3",
+    "duration" : "8m 21s"
+  },
+  {
+    "application" : "App Store",
+    "duration" : "8m 20s"
+  },
+  {
+    "application" : "QQ音乐",
+    "duration" : "8m 12s"
+  },
+  {
+    "application" : "Installer",
+    "duration" : "8m"
+  },
+  {
+    "application" : "Terminal",
+    "duration" : "7m 27s"
+  },
+  {
+    "application" : "CleanMyMac",
+    "duration" : "7m 25s"
+  },
+  {
+    "application" : "Preview",
+    "duration" : "6m 55s"
+  },
+  {
+    "application" : "OneDrive",
+    "duration" : "6m 47s"
+  },
+  {
+    "application" : "Photoshop CC",
+    "duration" : "6m 20s"
+  },
+  {
+    "application" : "Dictionary",
+    "duration" : "6m 12s"
+  },
+  {
+    "application" : "Accessibility Inspector",
+    "duration" : "6m 11s"
+  },
+  {
+    "application" : "Gemini",
+    "duration" : "5m 46s"
+  },
+  {
+    "application" : "Send Anywhere",
+    "duration" : "5m 44s"
+  },
+  {
+    "application" : "BetterZip",
+    "duration" : "5m 21s"
+  },
+  {
+    "application" : "iStat Menus",
+    "duration" : "4m 56s"
+  },
+  {
+    "application" : "Maps",
+    "duration" : "4m 48s"
+  },
+  {
+    "application" : "4K Stogram",
+    "duration" : "4m 44s"
+  },
+  {
+    "application" : "\/Applications\/Setapp\/KeyKey Typing Tutor.app\/Contents\/MacOS\/KeyKey",
+    "duration" : "4m 43s"
+  },
+  {
+    "application" : "Avast Security",
+    "duration" : "4m 15s"
+  },
+  {
+    "application" : "AppCleaner",
+    "duration" : "3m 55s"
+  },
+  {
+    "application" : "Battle.net",
+    "duration" : "3m 54s"
+  },
+  {
+    "application" : "BetterTouchTool Setapp",
+    "duration" : "3m 52s"
+  },
+  {
+    "application" : "Paste",
+    "duration" : "3m 47s"
+  },
+  {
+    "application" : "截图",
+    "duration" : "3m 41s"
+  },
+  {
+    "application" : "Logitech Options",
+    "duration" : "3m 31s"
+  },
+  {
+    "application" : "Code",
+    "duration" : "3m 30s"
+  },
+  {
+    "application" : "Pocket",
+    "duration" : "3m 21s"
+  },
+  {
+    "application" : "TextEdit",
+    "duration" : "3m 20s"
+  },
+  {
+    "application" : "Grammarly",
+    "duration" : "3m 9s"
+  },
+  {
+    "application" : "AdGuard",
+    "duration" : "3m 5s"
+  },
+  {
+    "application" : "Photos",
+    "duration" : "3m 2s"
+  },
+  {
+    "application" : "Creative Cloud",
+    "duration" : "2m 50s"
+  },
+  {
+    "application" : "coreautha",
+    "duration" : "2m 48s"
+  },
+  {
+    "application" : "TogglDesktop",
+    "duration" : "2m 44s"
+  },
+  {
+    "application" : "PDF Expert",
+    "duration" : "2m 32s"
+  },
+  {
+    "application" : "Bartender 3",
+    "duration" : "2m 28s"
+  },
+  {
+    "application" : "Adobe Digital Editions",
+    "duration" : "2m 24s"
+  },
+  {
+    "application" : "Speedtest",
+    "duration" : "2m 23s"
+  },
+  {
+    "application" : "Paragon NTFS for Mac 15",
+    "duration" : "2m 19s"
+  },
+  {
+    "application" : "GitHub Desktop",
+    "duration" : "2m 16s"
+  },
+  {
+    "application" : "Journey",
+    "duration" : "2m 9s"
+  },
+  {
+    "application" : "Orwell",
+    "duration" : "1m 58s"
+  },
+  {
+    "application" : "Polarr Photo Editor",
+    "duration" : "1m 54s"
+  },
+  {
+    "application" : "Evernote",
+    "duration" : "1m 50s"
+  },
+  {
+    "application" : "Turn Off the Lights for Safari",
+    "duration" : "1m 50s"
+  },
+  {
+    "application" : "Disk Utility",
+    "duration" : "1m 50s"
+  },
+  {
+    "application" : "HazeOver",
+    "duration" : "1m 49s"
+  },
+  {
+    "application" : "Messages",
+    "duration" : "1m 49s"
+  },
+  {
+    "application" : "Permute",
+    "duration" : "1m 45s"
+  },
+  {
+    "application" : "Pagico",
+    "duration" : "1m 40s"
+  },
+  {
+    "application" : "Setapp",
+    "duration" : "1m 40s"
+  },
+  {
+    "application" : "Droid4X",
+    "duration" : "1m 40s"
+  },
+  {
+    "application" : "DiskImages UI Agent",
+    "duration" : "1m 36s"
+  },
+  {
+    "application" : "Simulator",
+    "duration" : "1m 35s"
+  },
+  {
+    "application" : "XD",
+    "duration" : "1m 29s"
+  },
+  {
+    "application" : "iMazing Mini",
+    "duration" : "1m 29s"
+  },
+  {
+    "application" : "Balsamiq Mockups 3",
+    "duration" : "1m 28s"
+  },
+  {
+    "application" : "Microsoft AutoUpdate",
+    "duration" : "1m 24s"
+  },
+  {
+    "application" : "ShadowsocksX-NG",
+    "duration" : "1m 22s"
+  },
+  {
+    "application" : "Magnet",
+    "duration" : "1m 17s"
+  },
+  {
+    "application" : "Sip",
+    "duration" : "1m 11s"
+  },
+  {
+    "application" : "Calendar",
+    "duration" : "1m 9s"
+  },
+  {
+    "application" : "MobileDeviceUpdater",
+    "duration" : "1m 7s"
+  }
+]
